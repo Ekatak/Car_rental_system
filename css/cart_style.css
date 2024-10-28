@@ -1,0 +1,131 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  background: #ff7;
+  color: #333;
+}
+
+/* Container */
+.container {
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  width: 100%;
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+/* Header styling */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2rem;
+  color: #333;
+  font-weight: 600;
+}
+
+header .btn {
+  background-color: #ff6b6b;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+header .btn:hover {
+  background-color: #e63946;
+  transform: scale(1.05);
+}
+.user-info {
+  display: flex;
+  top: 30px;
+  left: 200px;
+  display: flex;
+  align-items: center;
+  //justify-content: flex-end;
+  margin-right: 50px;
+  z-index: 1000;
+}
+
+.user-logo {
+  font-size: 40px;
+  color: #fadc75;
+  margin-right: 10px;
+}
+
+.user-name p {
+  color: white;
+  font-size: 18px;
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Cart items section */
+.cart-items {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.cart-items ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.cart-items li {
+  font-size: 1rem;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-items li:last-child {
+  border-bottom: none;
+}
+
+.cart-items p {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #007bff;
+  margin-top: 20px;
+}
+
+/* Empty cart message */
+.cart-items p {
+  font-size: 1.2rem;
+  color: #777;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  header .btn {
+    font-size: 0.9rem;
+    padding: 8px 12px;
+  }
+}

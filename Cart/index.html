@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Product Listing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Products</h1>
+    <div id="productList"></div>
+
+    <a href="cart.html">View Cart</a>
+
+    <!-- Product Item Template -->
+    <template id="productItemTemplate">
+        <div class="product-item">
+            <h2></h2>
+            <img src="" alt="Product image" width="100">
+            <p>Price: ₹<span class="product-price"></span></p>
+            <button class="add-to-cart">Add to Cart</button>
+        </div>
+    </template>
+
+    <script src="script.js"></script>
+</body>
+</html>
