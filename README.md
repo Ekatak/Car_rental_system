@@ -10,21 +10,33 @@ A web-based application built using **PHP, MySQL, HTML, CSS, and JavaScript** th
 
  📸 Screenshots
 
- 1️⃣ User Login Page
+ 
+ Admin Panel
+![Admin Dashboard](https://github.com/Ekatak/Car_rental_system/blob/main/AdminDash.jpg)
 
-![User Login](screenshots/user_login.png)
+ User Dashboard
+![User Dashboard](https://github.com/Ekatak/Car_rental_system/blob/main/Dash.jpg)
 
- 2️⃣ User Dashboard
+ Login Page
+![Login](https://github.com/Ekatak/Car_rental_system/blob/main/Login.jpg)
 
-![User Dashboard](screenshots/user_dashboard.png)
+ Register Page
+![Register](https://github.com/Ekatak/Car_rental_system/blob/main/Register.jpg)
 
- 3️⃣ Cart Page
+ Database View
+![Database](https://github.com/Ekatak/Car_rental_system/blob/main/Db.jpg)  
+![Database 2](https://github.com/Ekatak/Car_rental_system/blob/main/Db2.jpg)  
+![Database 3](https://github.com/Ekatak/Car_rental_system/blob/main/Db3.jpg)
 
-![Cart Page](screenshots/cart_page.png)
+ Admin Login
+![Admin](https://github.com/Ekatak/Car_rental_system/blob/main/Admin.jpg)
 
- 4️⃣ Admin Dashboard
+ Landing Page
+![Index](https://github.com/Ekatak/Car_rental_system/blob/main/Index.jpg)
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
+ Low-Level Design
+![LLD](https://github.com/Ekatak/Car_rental_system/blob/main/LLD.jpg)  
+![LLD 2](https://github.com/Ekatak/Car_rental_system/blob/main/LLd2.jpg)
 
 ---
 
