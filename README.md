@@ -10,33 +10,29 @@ A web-based application built using **PHP, MySQL, HTML, CSS, and JavaScript** th
 
  📸 Screenshots
 
- 
- Admin Panel
-![Admin Dashboard](https://github.com/Ekatak/Car_rental_system/blob/main/AdminDash.jpg)
+ Admin Login
+![Admin](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Admin.jpg)
+
+ Admin Dashboard
+![Admin Dashboard](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/AdminDash.jpg)
+
+ Database
+![Database](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Db.jpg)
+![Database 2](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Db2.jpg)
+![Database 3](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Db3.jpg)
+
+ User Login
+![Login](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Login.jpg)
+
+ User Registration
+![Register](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Register.jpg)
 
  User Dashboard
-![User Dashboard](https://github.com/Ekatak/Car_rental_system/blob/main/Dash.jpg)
+![Dashboard](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Dash.jpg)
 
- Login Page
-![Login](https://github.com/Ekatak/Car_rental_system/blob/main/Login.jpg)
+ Home Page
+![Index](https://github.com/Ekatak/Car_rental_system/blob/main/Cab_screen/Index.jpg)
 
- Register Page
-![Register](https://github.com/Ekatak/Car_rental_system/blob/main/Register.jpg)
-
- Database View
-![Database](https://github.com/Ekatak/Car_rental_system/blob/main/Db.jpg)  
-![Database 2](https://github.com/Ekatak/Car_rental_system/blob/main/Db2.jpg)  
-![Database 3](https://github.com/Ekatak/Car_rental_system/blob/main/Db3.jpg)
-
- Admin Login
-![Admin](https://github.com/Ekatak/Car_rental_system/blob/main/Admin.jpg)
-
- Landing Page
-![Index](https://github.com/Ekatak/Car_rental_system/blob/main/Index.jpg)
-
- Low-Level Design
-![LLD](https://github.com/Ekatak/Car_rental_system/blob/main/LLD.jpg)  
-![LLD 2](https://github.com/Ekatak/Car_rental_system/blob/main/LLd2.jpg)
 
 ---
 
